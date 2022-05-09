@@ -1,0 +1,4 @@
+- 🧟‍♂️ meu nome é rafael
+- meu email de contato é rafael.cristiandejesus.araujo@escola.pr.gov.br💞️
+- 🥇 eu estou interessado em aprender a programar novas linguagens
+- 🌱 eu estou a programar recentemente a linguagem de javascript e scratch
